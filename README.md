@@ -1,1 +1,1 @@
-# intro.py
+this is telling about project
